@@ -113,7 +113,6 @@ npm run build
 **Tamj**
 
 - GitHub: [@Tamj-delcroix](https://github.com/Tamj-delcroix)
-- Website: [tamj.dev](https://tamj.dev)
 
 ---
 
